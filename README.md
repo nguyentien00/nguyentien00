@@ -42,12 +42,10 @@
 <p align="center">
   <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
 </p>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<Tiendev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtin4401&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<h2 alignTiendev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Tiendev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thanhtin4401&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Tiendev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
